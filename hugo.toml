@@ -10,11 +10,11 @@ title = "Niklas Baumert"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "Photography"
+  description = "A simple gallery of photos by Niklas Baumert"
+  title = "Photography by Niklas Baumert"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "gallery@baumert.me"
+    name = "Niklas Baumert"
   [params.socialIcons]
     # facebook = "https://www.facebook.com/"
     # instagram = "https://www.instagram.com/"
