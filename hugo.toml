@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 timeZone = "Europe/Berlin"
-timeout = "120s"
+timeout = "240s"
 title = "Niklas Baumert"
 
 [params]
